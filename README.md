@@ -1,6 +1,6 @@
 # LAYA — Layer-wise Attention Aggregator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/LAYA.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvessio/LAYA/blob/main/LAYA.ipynb)
 
 Minimal reference implementation of **LAYA**, an interpretable output head that assigns input-conditioned attention weights to hidden layers. This example trains a simple MLP on **Fashion-MNIST** and visualizes global and class-wise attention profiles.
 
